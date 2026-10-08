@@ -15,11 +15,10 @@ I'm Vismitha, a motivated software engineer with a BSc in computer science from 
 
 </br>
 
-![](https://github-readme-stats.shion.dev/api?username=VismithaG&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  ![](https://streak-stats.demolab.com/?user=VismithaG&theme=dark&hide_border=false) 
-
 <div align="center">
   
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=VismithaG&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=VismithaG&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  ![](https://streak-stats.demolab.com/?user=VismithaG&theme=dark&hide_border=false) 
 </div>
 
 ![](https://github-profile-trophy.vercel.app/?username=VismithaG&theme=radical&no-frame=false&no-bg=false&margin-w=4)
