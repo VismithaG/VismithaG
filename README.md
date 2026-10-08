@@ -1,8 +1,10 @@
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=VISMITHA+GUNASEKARA&font=Mokoto&size=42&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=false&duration=4200&pause=1200&width=1000&height=90)](https://github.com/DenverCoder1/readme-typing-svg)
+
+<img src="vismitha.svg" alt="VISMITHA GUNASEKARA">
 
 </div>
+
+<br>
 
 <div align="center">
 I'm Vismitha, a motivated software engineer with a BSc in computer science from the University of Plymouth, UK. </br></br></br>
