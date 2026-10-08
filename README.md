@@ -1,7 +1,12 @@
-[ReadMe.md](https://github.com/user-attachments/files/33196133/ReadMe.md)
-# 💫 About Me:
-I'm Vismitha, a motivated software engineer with a BSc. in computer science from the University of Plymouth, UK<br>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=VISMITHA+GUNASEKARA&font=Mokoto&size=42&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=false&duration=4200&pause=1200&width=1000&height=90)](https://github.com/DenverCoder1/readme-typing-svg)
 
+</div>
+
+<div align="center">
+I'm Vismitha, a motivated software engineer with a BSc in computer science from the University of Plymouth, UK. </br>
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/v.g.b.m.f?utm_source=qr&igsh=MWZ6MjM5d2Q1ODUwaQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vismitha-gunasekara) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vismitha65mya@gmail.com) 
