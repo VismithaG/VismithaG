@@ -4,10 +4,10 @@
 
 </div>
 
-<br>
+</br>
 
 <div align="center">
-I'm Vismitha, a motivated software engineer with a BSc in computer science from the University of Plymouth, UK. </br></br></br>
+<b><h3><i>Hi! I'm Vismitha, a motivated software engineer with a BSc in computer science from the University of Plymouth, UK, with hands-on experience in full-stack web development, mobile application development, and database-driven software solutions.</i></h3></b> </br></br></br>
 </div>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/v.g.b.m.f?utm_source=qr&igsh=MWZ6MjM5d2Q1ODUwaQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vismitha-gunasekara) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vismitha65mya@gmail.com) 
